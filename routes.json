@@ -1,1 +1,17 @@
-{"next_id": 1, "watches": []}
+{
+  "next_id": 2,
+  "watches": [
+    {
+      "id": 1,
+      "from": "AMD",
+      "to": "DEL",
+      "start": "2026-12-20",
+      "end": "2026-12-20",
+      "limit": 50000,
+      "nonstop": false,
+      "adults": 1,
+      "paused": false,
+      "created": "2026-11-12T11:26:34+00:00"
+    }
+  ]
+}

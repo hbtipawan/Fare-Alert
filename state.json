@@ -1,0 +1,25 @@
+{
+  "watches": {
+    "1": {
+      "last_check": "2026-11-12T11:26:37+00:00",
+      "fail_streak": 0,
+      "last_price": 6430,
+      "last_date": "2026-12-20",
+      "best_price": 6430,
+      "best_when": "2026-11-12T11:26:37+00:00",
+      "history": [
+        [
+          "2026-11-12T11:26",
+          6430,
+          "2026-12-20"
+        ]
+      ],
+      "last_alert_price": 6430,
+      "last_alert_at": "2026-11-12T11:26:37+00:00"
+    }
+  },
+  "tg_offset": 131341112,
+  "force_check": true,
+  "last_full_check": "2026-11-12T11:26:38+00:00",
+  "warned_failing": false
+}
