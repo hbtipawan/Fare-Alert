@@ -1,8 +1,8 @@
 {
   "watches": {
     "1": {
-      "last_check": "2026-11-22T23:29:07+00:00",
-      "fail_streak": 1,
+      "last_check": "2026-11-23T03:57:33+00:00",
+      "fail_streak": 2,
       "last_price": 6430,
       "last_date": "2026-12-20",
       "best_price": 6430,
@@ -158,8 +158,8 @@
       "last_alert_at": "2026-11-22T17:42:58+00:00"
     },
     "2": {
-      "last_check": "2026-11-22T23:29:11+00:00",
-      "fail_streak": 0,
+      "last_check": "2026-11-23T03:57:45+00:00",
+      "fail_streak": 1,
       "last_price": 43795,
       "last_date": "2027-05-10",
       "best_price": 43795,
@@ -340,8 +340,8 @@
       "last_alert_at": "2026-11-22T23:29:11+00:00"
     },
     "3": {
-      "last_check": "2026-11-22T23:29:14+00:00",
-      "fail_streak": 0,
+      "last_check": "2026-11-23T03:57:57+00:00",
+      "fail_streak": 1,
       "last_price": 12092,
       "last_date": "2026-12-05",
       "best_price": 10960,
@@ -507,8 +507,8 @@
       "last_alert_at": "2026-11-22T23:29:14+00:00"
     },
     "4": {
-      "last_check": "2026-11-22T23:29:17+00:00",
-      "fail_streak": 0,
+      "last_check": "2026-11-23T03:58:09+00:00",
+      "fail_streak": 1,
       "last_price": 8368,
       "last_date": "2026-12-05",
       "best_price": 8368,
@@ -684,11 +684,11 @@
       "last_alert_at": "2026-11-22T17:43:06+00:00"
     },
     "5": {
-      "last_check": "2026-11-22T23:29:29+00:00",
-      "fail_streak": 36
+      "last_check": "2026-11-23T03:58:21+00:00",
+      "fail_streak": 37
     }
   },
   "tg_offset": 131341116,
-  "last_full_check": "2026-11-22T23:29:29+00:00",
+  "last_full_check": "2026-11-23T03:58:21+00:00",
   "warned_failing": false
 }
